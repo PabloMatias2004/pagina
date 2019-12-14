@@ -1,0 +1,37 @@
+#F1{
+	background-color: #ffd800;
+}
+.boton{
+	width: 120px;
+	height: 40px;
+	border-radius: 4px;
+	cursor: pointer;
+	color: #110133;
+	box-shadow: 3px 3px 3px gray;
+	background-color: #9dd8c8;
+	font-size: bolder;
+	border: 3px solid #110133;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	font-size: 25px;
+}
+.text{
+	color: #FFFFFF;
+	font-family: brodway;
+}
+#F2{
+	padding-top: 10%;
+	padding-left: 35%;
+}
+.im{
+	width: 220px;
+	height: 220px;
+	padding-left: 14%;
+}
+.tx1{
+	color: #FFFFFF;
+	font-family: brodway;
+	font-size: 30px;
+}
